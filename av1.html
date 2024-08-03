@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="script.js"></script>
+        <link rel="stylesheet" href="style.css"/>
+        <meta charset="UTF-8">
+        <title>Cálculo da AV1</title>
+    </head>
+    <body>
+        <h1>Cálculo da AV1</h1>
+        <div>
+            Insira a nota da AP1:<br/>
+            <input id="ap1" type="text"/>
+            <br/>
+        </div>
+        <div>
+            Insira a nota da AP2:<br/>
+            <input id="ap2" type="text"/>
+            <br/>
+        </div>
+        <div>
+            Insira a nota da AP3:<br/>
+            <input id="ap3" type="text"/>
+            <br/>
+        </div>
+        <div>
+            Quantas questões acertou no portal na Unidade IV?<br/>
+            <input id="portal" type="text"/>
+            <br/>
+        </div>
+        <div>
+            <input type="button" class="botao" value="Calcule sua nota!" onclick="calcularAV1();"/>
+        </div>
+        <br/>
+        <div>
+            <a href="ap.html">
+                <input type="button" class="botaoFinal" 
+                style="float: left;"
+                value="Retornar ao cálculo da AP">
+            </a>
+            <a href="mf.html">
+                <input type="button" class="botaoFinal" 
+                style="float: right;"
+                value="Calcular média final">
+            </a>
+        </div>
+    </body>
+</html>
