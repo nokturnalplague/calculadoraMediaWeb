@@ -22,4 +22,4 @@ Basta abrir o arquivo `index.html` em um navegador de sua preferência.
 
 ## 🧑‍💻 Autora
 
-**Nathália Dagort Ferlin**
+Nathália Dagort Ferlin
