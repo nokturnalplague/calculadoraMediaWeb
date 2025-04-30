@@ -16,9 +16,9 @@ Uma calculadora de média baseada no cálculo de notas de cursos semipresenciais
 - Utilize **ponto** ao invés de vírgula na hora de inserir os números, pois a calculadora segue o **modelo americano de numeração**.  
   **Exemplo:** insira `9.1` ao invés de `9,1`.
 
-## ▶️ Como usar
+## ▶️ Acesse o projeto
 
-Basta abrir o arquivo `index.html` em um navegador de sua preferência.
+https://nokturnalplague.github.io/calculadoraMediaWeb/
 
 ## 🧑‍💻 Autora
 
